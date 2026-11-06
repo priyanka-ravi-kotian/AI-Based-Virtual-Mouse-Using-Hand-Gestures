@@ -1,0 +1,25 @@
+
+# Virtual environments
+.venv/
+.venv311/
+venv/
+
+# Exclude modules folder
+modules/
+
+# Exclude backup file
+app_backup.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
